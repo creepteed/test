@@ -1,0 +1,1 @@
+export const positionArray = ["width","height","max-width","max-height","left","right","bottom","top","position","display"];
